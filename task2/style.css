@@ -1,0 +1,11 @@
+.wrapper {
+    width: 100vw;
+}
+
+.button {
+    display: block;
+    margin: 400px auto;
+    min-width: 200px;
+    min-height: 80px;
+    cursor: pointer;
+}

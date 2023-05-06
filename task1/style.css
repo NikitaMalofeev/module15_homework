@@ -1,0 +1,29 @@
+.wrapper {
+    margin: 400px auto;
+    width: 100vw;
+}
+
+.button {
+    display: block;
+    margin: 0 auto;
+    min-width: 200px;
+    min-height: 80px;
+    cursor: pointer;
+}
+
+.svg svg{
+    min-width: 50px;
+    min-height: 50px;
+}
+
+.active {
+    display: none;
+}
+
+.svg-second {
+    display: none;
+}
+
+.svg-second.active {
+    display: block;
+}
